@@ -12,7 +12,7 @@ def multiply (first_input, second_input):
 
 #function to divide two numbers
 def divide (first_input, second_input):
-    return first_input / second_input
+    return first_input / second_input    
     
 # Simple Calculator
 print("Welcome to simple calculator.")
